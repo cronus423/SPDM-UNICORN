@@ -1,5 +1,5 @@
 # SPDM-UNICORN
-This project aims to integrate libspdm with the Unicorn CPU Emulator to simulate a Root Complex and Endpoint Device. The core functionalities of secure communication, device authentication, and obtaining measurement reports are implemented using libspdm. The project is currently under development and is being continuously updated.
+This project aims to integrate libspdm with the Unicorn CPU Emulator to simulate a Root Complex and Endpoint Device. The core functionalities of secure communication, device authentication, and obtaining measurement reports are implemented using libspdm. The project is currently under development and is being continuously updated.\\
 Unicorn: https://www.unicorn-engine.org/download/;
 Libspdm: https://github.com/DMTF/libspdm/tree/main;
 spdm_emu: https://github.com/DMTF/spdm-emu/tree/main
